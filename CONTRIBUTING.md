@@ -1,4 +1,4 @@
-# Contributing to Shots Studio
+# Contributing to Fetchify
 
 Thank you for your interest in contributing to **Fetchify**! We welcome contributions of all kinds — whether it's code, bug reports, feature ideas, documentation improvements, or community support.
 
