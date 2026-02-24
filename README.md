@@ -1,9 +1,3 @@
-[![Platform](https://shields.io/badge/platform-android-green.svg)](https://github.com/AnsahMohammad/shots-studio)
-[![License](https://img.shields.io/badge/license-GPL3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Latest Release](https://img.shields.io/github/v/release/AnsahMohammad/shots-studio?label=release)](https://github.com/AnsahMohammad/shots-studio/releases/latest)
-[![Chat](https://img.shields.io/badge/Discussions-Join-blue?logo=github)](https://github.com/AnsahMohammad/shots-studio/discussions)
-[![Downloads](https://img.shields.io/github/downloads/AnsahMohammad/shots-studio/total)](https://github.com/AnsahMohammad/shots-studio/releases)
-
 <div align="center">
   <img src="fetchify/assets/icon/icon.png" width="20%" />
 
@@ -30,21 +24,6 @@ With Fetchify, you can:
 - Group related screenshots into custom **collections**.
 - **Run AI fully offline** with the latest **Gemma** on-device model for faster, privacy-first processing.
 
----
-
-## Download
-
-<div align="center">
-
-[<img src="docs/assets/get-it-on-github.png"
-    alt="Get it on GitHub" height="80">](https://github.com/AnsahMohammad/shots-studio/releases/latest)
-
-[<img src="https://f-droid.org/badge/get-it-on.png"
-    alt="Get it on F-Droid" height="80">](https://f-droid.org/en/packages/com.ansah.fetchify/)
-
-</div>
-
----
 
 ## Key Features
 
@@ -97,8 +76,6 @@ More details: [Gemini API Privacy Policy](https://ai.google.dev/gemini-api/terms
    - For offline AI: Enable **Gemma On-Device** in Settings (no API key needed).
 
 2. **Install the App**
-
-   - Download from [Releases](https://github.com/AnsahMohammad/shots-studio/releases/latest) or [F-Droid](https://f-droid.org/en/packages/com.ansah.fetchify/).
    - Install the APK on your device.
 
 3. **Grant Permissions**  
